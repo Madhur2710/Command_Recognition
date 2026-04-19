@@ -2,3 +2,5 @@ graph.py
 speech_data/
 speech_commands_v0.02.tar.gz
 myenv/
+test_data/
+__pycache__
